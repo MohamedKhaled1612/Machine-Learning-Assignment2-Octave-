@@ -1,5 +1,5 @@
 # Machine-Learning-Assignment2-Octave-
-# implementing Linear Regression Algorithm 
+implementing Linear Regression Algorithm 
 in these sort of files i solved machine learning first assignment for the course (Machine Learning) for (Andrew Ng) 
 
 using language : Octave 
